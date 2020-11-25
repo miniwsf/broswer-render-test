@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95d8cdaa-14c7-4e8f-b49a-ce0c220365b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/broswer-render-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mac.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/assets/css/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/assets/image/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/assets/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/example/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="153">
+              <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -135,13 +125,6 @@
               <item name="broswer-render-test" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="broswer-render-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="broswer-render-test" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -198,12 +181,12 @@
       <option name="presentableId" value="Default" />
       <updated>1606300541588</updated>
       <workItem from="1606300543097" duration="402000" />
-      <workItem from="1606301248407" duration="147000" />
+      <workItem from="1606301248407" duration="415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="549000" />
+    <option name="totallyTimeSpent" value="817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="0" />
@@ -263,8 +246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="153">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
         </state>
       </provider>
     </entry>
